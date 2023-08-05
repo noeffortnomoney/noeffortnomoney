@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 # 💫About Me :
-I am currently looking for a job
-I am currently learning new Frontend Technologies
+I am currently looking for a job <br>
+I am currently learning new Frontend Technologies <br>
 Ask me about ...
 
 ## 🌐Socials
