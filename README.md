@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫About Me :
+I graduated with a major in Computer Science - University of Information Technology, Vietnam National University, Ho Chi Minh City. <br>
 I am currently seeking for a Front-end Developer position to develop my skills and abilities. <br>
 I am currently learning new Frontend Technologies <br>
 Do my best to bring values to the company. <br>
