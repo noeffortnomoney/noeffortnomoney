@@ -23,6 +23,7 @@ I am passionate about learning new Front-end technologies, optimizing user exper
 
 Contact me:
 📱 Zalo: 0916754758
+
 📧 Email: truongquocbinh0423@gmail.com
 
 ## 🌐Socials
