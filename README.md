@@ -22,6 +22,7 @@ I am currently working at Kymdan, where I focus on front-end development and con
 I am passionate about learning new Front-end technologies, optimizing user experience, and building high-quality, scalable web interfaces. My goal is to deliver practical value and long-term contributions to the company.
 
 Contact me:
+
 📱 Zalo: 0916754758
 
 📧 Email: truongquocbinh0423@gmail.com
