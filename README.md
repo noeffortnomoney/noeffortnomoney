@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 -->
 
 # 💫About Me :
-I graduated with a major in Computer Science - University of Information Technology, Vietnam National University, Ho Chi Minh City. <br>
-I am currently seeking for a Front-end Developer position to develop my skills and abilities. <br>
-I am currently learning new Frontend Technologies <br>
-Do my best to bring values to the company. <br>
-Contact me: <br>
-ZALO: 0916754758 <br>
-Email: truongquocbinh0423@gmail.com
+I graduated with a major in Computer Science from the University of Information Technology – Vietnam National University, Ho Chi Minh City.
+
+I am currently working at Kymdan, where I focus on front-end development and continuously improve my technical skills through real-world projects.
+
+I am passionate about learning new Front-end technologies, optimizing user experience, and building high-quality, scalable web interfaces. My goal is to deliver practical value and long-term contributions to the company.
+
+Contact me:
+📱 Zalo: 0916754758
+📧 Email: truongquocbinh0423@gmail.com
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/binhkun123/) 
